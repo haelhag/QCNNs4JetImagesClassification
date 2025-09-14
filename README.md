@@ -2,9 +2,6 @@
 
 Motivated by the problem of complex top-quark jet images produced as a result of hypothesized beyond-Standard-Model (BSM) particles, this project aims to utilize a Quantum Convolutional Neural Network (QCNN) model to improve classification accuracy between top-quark jet signals and the corresponding QCD background. QCNN architecture was introduced by Cong et al. (2020) and has been utilized in various classification tasks showing promising results.  
 
-The coding framework was adapted from:  
-[ML4SCI QCNN MNIST](https://github.com/ML4SCI/QML-hands-on/blob/main/notebooks/4_QCNN_MNIST.ipynb), and further modified to match the problem at hand.  
-
 
 ---
 
